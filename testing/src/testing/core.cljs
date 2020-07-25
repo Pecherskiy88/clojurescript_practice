@@ -7,3 +7,8 @@
 (enable-console-print!)
 
 (println "Hello world!")
+
+
+
+; 3*5 - 8 / 4 + 7 
+;  (+ (- (* 3 5) (/ 8 4)) 7)
